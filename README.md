@@ -69,12 +69,12 @@ The dataset contains transactional records with the following key columns:
 ### 📸 Dashboard Screenshots
 Below are the key screenshots captured from the analysis dashboard:
 
-![image](https://github.com/mohanamvenkatesh-sketch/Sales_analysis/blob/4c69dd27d58c52ab5486ce2be3c61ef1a4a0fea1/image_dashboard/Screenshot%202026-06-08%20102334.png)
+![image](https://github.com/mohanamvenkatesh-sketch/Sales_analysis/blob/f6a438cc289d16c4fe5e310d8c6bd3ea49bf6872/dashboard%20overview.png)
 
-![image](D:\project\dashboard 2.png)
+![image](https://github.com/mohanamvenkatesh-sketch/Sales_analysis/blob/f6a438cc289d16c4fe5e310d8c6bd3ea49bf6872/dashboard%203.png)
 
 
-![image](D:\project\dashboard 3.png)
+![image](https://github.com/mohanamvenkatesh-sketch/Sales_analysis/blob/f6a438cc289d16c4fe5e310d8c6bd3ea49bf6872/dashboard%202.png)
 
 
 
