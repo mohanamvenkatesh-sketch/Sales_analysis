@@ -69,7 +69,7 @@ The dataset contains transactional records with the following key columns:
 ### 📸 Dashboard Screenshots
 Below are the key screenshots captured from the analysis dashboard:
 
-![image](D:\project\dashboard overview.png)
+![image](https://github.com/mohanamvenkatesh-sketch/Sales_analysis/blob/4c69dd27d58c52ab5486ce2be3c61ef1a4a0fea1/image_dashboard/Screenshot%202026-06-08%20102334.png)
 
 ![image](D:\project\dashboard 2.png)
 
